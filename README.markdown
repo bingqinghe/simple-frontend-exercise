@@ -1,3 +1,5 @@
+# Frontend Assessment - Student Profiles
 # 
-Frontend Assessment - Student Profiles
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/bingqinghe/pen/KKwPBgz](https://codepen.io/bingqinghe/pen/KKwPBgz).
+A Pen created at CodePen.io
+# 
+Original URL: [https://codepen.io/bingqinghe/pen/KKwPBgz](https://codepen.io/bingqinghe/pen/KKwPBgz).
