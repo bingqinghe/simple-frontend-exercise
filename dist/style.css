@@ -1,0 +1,97 @@
+.container{
+  position: relative;
+  top: 30px;
+  display: block;
+  height: 100%;
+}
+.container img {
+    padding: 0px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #DCDCDC;
+    border-radius: 50%;
+}
+h1 {
+  display: inline-block;
+}
+.name {
+  position: relative;
+  left: 30px;
+  top: -40px;
+  font-weight: 700;
+}
+span {
+  font-size: 15px;
+  color: #8d8d8d;
+  position: relative;
+  top: -45px;
+  left: 50px;
+  display: table-cell;
+}
+span p {
+  font-family: Arial;
+  margin: 2px;
+}
+
+.input-box input{
+  font-family: Arial;
+  font-size: 20px;
+  display: block;
+  border: none;
+  border-bottom:1px solid #ccc;
+  width: 95%;
+  margin: 30px;
+  outline: none;
+}
+.container .add-tag-input {
+  position: relative;
+  font-family: Arial;
+  font-size: 15px;
+  display: block;
+  border: none;
+  border-bottom: 1px solid black;
+  top: -30px;
+  left: 150px;
+  outline: none;
+  visibility: hidden;
+}
+i .fa-plus{
+  display: inline-block;
+  float: right;
+  size: 500px;
+  visibility: visible;
+}
+
+button {
+  visible: hidden;
+  float: right;
+  size: 500%;
+}
+.score {
+  display: block;
+  left: 150px;
+  visibility: visible;
+}
+.container .newtag {
+  display: inline-block;
+  left: 150px;
+  visibility: visibile;
+  width: 100%;
+  top: -30px;
+}
+i .fa-minus {
+  display: inline-block;
+  visibility: hidden;
+  size: 500px;
+}
+table, td {
+  font-size: 15px;
+  color: #8d8d8d;
+  position: relative;
+  top: -20px;
+  width: 200px;
+}
+
+span p {
+  width: 100px;
+}
